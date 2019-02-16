@@ -1,0 +1,1 @@
+This algorithm prints pairs of numbers which have their sum equal.
