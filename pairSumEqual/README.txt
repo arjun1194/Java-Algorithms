@@ -1,1 +1,1 @@
-This algorithm prints pairs of numbers which have their sum equal.
+This program takes input as an array and prints all the pairs whose sum is equal

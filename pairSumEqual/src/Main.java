@@ -8,10 +8,7 @@ public class Main {
                 };
         int[][] outputArray = pairSumEqual(array);
         int size = outputArray.length;
-        Hashtable hash = new Hashtable();
-        hash.put("John",1);
-        hash.put("Arjun",2);
-
+        
         for (int i = 0; i < size; i++) {
             for (int j = i + 1; j < size; j++) {
                 if (outputArray[i][0] == outputArray[j][0])
